@@ -5,7 +5,7 @@ git install
 
 ...bn
 aws ..
-git
+git iinstALL
 
 
 
