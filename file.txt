@@ -4,7 +4,7 @@ hello
 git install
 
 ...
-aws
+aws ..
 git
 
 
