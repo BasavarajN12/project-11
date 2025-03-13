@@ -1,4 +1,4 @@
-echo " hello techies " >> file.txt
+llo ,echo " hello techies " >> file.txt
 
 hello
 
